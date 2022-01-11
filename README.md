@@ -1,6 +1,19 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using [Redux](https://redux.js.org/), [Redux-Saga](https://redux-saga.js.org/) and [Redux-Toolkit](https://redux-toolkit.js.org/).
+
+## Description
+
+This is a Product Listing App where product list is being fetched from the API and products are dispalyed in the form of a grid with cards. 
+
+It is possible to filter the product list based on Brands, Tags and ItemType. We can also sort the product list. Products can bbe added to the basket, quantity can be changed and products can be removed from the basket as well!
+
+For the API, [json-server](https://github.com/typicode/json-server) was used.
+
+## Links
+
+API Server: [https://product-listing-app-92.herokuapp.com/](https://product-listing-app-92.herokuapp.com/)
+Live Application: []()
 
 ## Available Scripts
 
