@@ -16,6 +16,21 @@ API Server: [https://product-listing-app-92.herokuapp.com/](https://product-list
 
 Live Application: []()
 
+## Packages and Technologies used:
+
+[React](https://reactjs.org/docs/getting-started.html)
+
+[Typescript](https://www.typescriptlang.org/)
+
+[Redux](https://redux.js.org/)
+
+[Redux-Saga](https://redux-saga.js.org/)
+
+[Redux-Toolkit](https://redux-toolkit.js.org/)
+
+[styled-components](https://styled-components.com/)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
