@@ -1,0 +1,38 @@
+.align {
+    &-text {
+      &-left {
+        text-align: left !important;
+      }
+      &-right {
+        text-align: right !important;
+      }
+      &-center {
+        text-align: center !important;
+      }
+    }
+  
+    &-vertical {
+      &-top {
+        align-items: flex-start !important;
+      }
+      &-center {
+        align-items: center !important;
+      }
+      &-bottom {
+        align-items: flex-end !important;
+      }
+    }
+  
+    &-justify {
+      &-left {
+        justify-content: flex-start !important;
+      }
+      &-center {
+        justify-content: center !important;
+      }
+      &-right {
+        justify-content: flex-end !important;
+      }
+    }
+  }
+  

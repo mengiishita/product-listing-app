@@ -1,0 +1,69 @@
+$black: #191919;
+$black-secondary: #525252;
+$white: #fff;
+$grey: #e0e0e0;
+$grey-secondary: #697488;
+$grey-light: #a8a8a8;
+$blue: #f2f0fd;
+$primary: #1ea4ce;
+$secondary: #147594;
+
+.bg-transparent {
+  background: transparent !important;
+}
+
+.bg-primary {
+  background: $primary !important;
+}
+
+.bg-secondary {
+  background: $secondary !important;
+}
+
+.bg-grey {
+  background: $grey !important;
+}
+
+.bg-bşue {
+  background: $blue;
+}
+
+.bg-black {
+  background: $black !important;
+}
+
+.bg-white {
+  background: $white !important;
+}
+
+.fc-primary {
+  color: $primary !important;
+}
+
+.fc-secondary {
+  color: $secondary !important;
+}
+
+.fc-grey {
+  color: $grey !important;
+
+  &-secondary {
+    color: $grey-secondary !important;
+  }
+}
+
+.fc-grey-light {
+  color: $grey-light !important;
+}
+
+.fc-black {
+  color: $black;
+
+  &-secondary {
+    color: $black-secondary;
+  }
+}
+
+.fc-white {
+  color: $white !important;
+}
