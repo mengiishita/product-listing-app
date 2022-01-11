@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Product Listing App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using [Redux](https://redux.js.org/), [Redux-Saga](https://redux-saga.js.org/) and [Redux-Toolkit](https://redux-toolkit.js.org/).
 
@@ -12,7 +12,8 @@ For the API, [json-server](https://github.com/typicode/json-server) was used.
 
 ## Links
 
-API Server: [https://product-listing-app-92.herokuapp.com/](https://product-listing-app-92.herokuapp.com/)
+API Server: [https://product-listing-app-92.herokuapp.com/](https://product-listing-app-92.herokuapp.com/).
+
 Live Application: []()
 
 ## Available Scripts
