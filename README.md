@@ -14,7 +14,7 @@ For the API, [json-server](https://github.com/typicode/json-server) was used.
 
 API Server: [https://product-listing-app-92.herokuapp.com/](https://product-listing-app-92.herokuapp.com/).
 
-Live Application: []()
+Live Application: [https://product-listing-app-live.herokuapp.com/](https://product-listing-app-live.herokuapp.com/)
 
 ## Packages and Technologies used:
 
